@@ -1,6 +1,6 @@
 # OV5647
 
 OV5647 overlay disable
-'''
+```
 sudo mv /boot/dtbo/ov5647.dtbo /boot/dtbo/ov5647.dtbo.bak
-'''
+```
